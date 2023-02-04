@@ -62,6 +62,7 @@
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [Share your chatGPT with friends and coworkers. Improve your chatGPT skills.](https://higpt.wiki/)
 
 ### Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
