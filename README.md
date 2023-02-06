@@ -82,6 +82,7 @@
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 
 ### Example prompts
+- [New jailbreak based on virtual functions - smuggle illegal tokens to the backend](https://www.reddit.com/r/ChatGPT/comments/10urbdj/new_jailbreak_based_on_virtual_functions_smuggle/)
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
 ... just follow [@goodside](https://twitter.com/goodside)
 - A prompt to bypass ChatGPT's restrict policy:
